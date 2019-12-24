@@ -1,0 +1,6 @@
+/*
+  cache-control: public
+  cache-control: max-age=31104000
+  Access-Control-Allow-Origin: https://play.dopemovie.net
+  Referrer-Policy: origin-when-cross-origin
+
